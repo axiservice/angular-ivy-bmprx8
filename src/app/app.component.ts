@@ -1,5 +1,4 @@
 import { Component, VERSION } from '@angular/core';
-import {MenuComponent} from './menu/menu.component'; 
 
 @Component({
   selector: 'my-app',
